@@ -1,2 +1,0 @@
-# bp-t3b01-yc-karaoke-real2
-BPaaS portfolio: t3b01-yc-karaoke-real2
